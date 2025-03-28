@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #AEDCC0;
+}
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    height: 300px;
+    width: auto;
+    border-radius: 1rem;
+}
+a{
+    font-size: larger;
+    text-decoration: none;
+}
+h2{
+    color: #343E3D;
+}
