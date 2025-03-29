@@ -9,5 +9,12 @@ body{
 a{
     text-decoration: none;
     color: #AEDCC0;
+    border: 4px solid black;
+    padding: 15px;
+    width: 300px;
+    display: inline-block;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+
 
 }

@@ -13,7 +13,21 @@ img{
 a{
     font-size: larger;
     text-decoration: none;
+    border: 4px solid #343E3D;
+    padding: 15px;
+    width: 150px;
+    display: inline-block;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    background-color: #dafffb;
+    color: #343E3D;
+
+
 }
 h2{
     color: #343E3D;
 }
+p{
+    font-size: large;
+}
+
